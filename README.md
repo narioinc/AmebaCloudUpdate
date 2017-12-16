@@ -16,8 +16,7 @@ function arguments and once connected you can download the firmware from the ser
 
 The Tools folder has a sample download server. 
 
-* Start the server by running the script provided for linux, windows 
-start.sh or start.bat
+* Start the server by running the script provided for windows start.bat
 * Make sure that you have your ota.bin file present in the root of the tools folder
 * once the server starts it will wait for connection on 8082
 
