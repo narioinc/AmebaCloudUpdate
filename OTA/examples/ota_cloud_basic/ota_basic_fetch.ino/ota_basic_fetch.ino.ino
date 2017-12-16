@@ -12,8 +12,8 @@
 #include <WiFi.h>
 #include <OTA.h>
 
-char ssid[] = "narioinc89";     //  your network SSID (name)
-char pass[] = "Cerebrum123";  // your network password
+char ssid[] = "xxxx";     //  your network SSID (name)
+char pass[] = "xxxx";  // your network password
 
 #define MY_VERSION_NUMBER 1
 #define OTA_PORT 8082
