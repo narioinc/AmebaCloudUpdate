@@ -33,6 +33,9 @@ The ota_cloud_basic example lets you take this feature for a test ride.
 * Also chnage your wifi SSID and password
 * Run the code !!!
 
+ota_cloud_non_block example is slightly different. The example shows how to implement the feature without 
+blocking the main sys thread.
+
 You should see the ameba board download the firmware correctly from the download server. 
 
 
