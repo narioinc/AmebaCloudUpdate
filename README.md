@@ -9,8 +9,8 @@ code design as possible
 
 OTA.beginCloud("your IP here", OTA_PORT)
 
-This call present the opportunity for the board to connect with the IP:PORT specified in the
-function arguments and once connected you can download the firmware from the server.
+This call lets the board connect with the server via the IP:PORT specified in the
+function arguments and once connected it can download the firmware from the server.
 
 # Sample download Server
 
